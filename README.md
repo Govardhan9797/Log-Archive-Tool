@@ -16,13 +16,14 @@ Get notified about archive activity automatically.
 
 🧩 Key Features
 
-<h3>
-Command-line execution — run with log-archive <log-directory> </br>
-Automatic compression — creates timestamped .tar.gz archives </br>
-Logging — keeps a text log of every archive operation </br>
-Email notifications — optionally emails the user a success/failure report </br>
-Remote upload — can send the archive to an SFTP server or cloud service </br>
-Configuration file support — credentials and settings stored securely in .env </br>
-Extensible architecture — easy to add new notification or storage backends </br>
-</h3>
+<ol>
+  <li>Command-line execution — run with log-archive <log-directory></li>
+  <li>Automatic compression — creates timestamped .tar.gz archives</li>
+  <li>Logging — keeps a text log of every archive operation</li>
+  <li>Email notifications — optionally emails the user a success/failure report</li>
+  <li>Remote upload — can send the archive to an SFTP server or cloud service</li>
+  <li>Configuration file support — credentials and settings stored securely in .env</li>
+  <li>Extensible architecture — easy to add new notification or storage backends</li>
+</ol>
+
 
